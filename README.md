@@ -17,7 +17,7 @@ GitHub: Hosting the project repository and collaboration among contributors.
 Usage:
 To run this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/task-rendering-react.git
+Clone the repository: git clone https://github.com/yourusername/task-rendering-react.git 
 Navigate to the project directory: cd task-rendering-react
 Install dependencies: npm install or yarn install
 Start the development server: npm run dev
