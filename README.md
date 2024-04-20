@@ -12,7 +12,7 @@ Features :
 ![Alt text](/Homepage.jpg.png)
 
 
-![Alt text](/todo-video.mp4)
+[Watch the video](todo-video.mp4)
 
 Task Creation : Users can create new tasks with relevant details.
 
