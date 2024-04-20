@@ -25,9 +25,13 @@ Responsive Design : TaskMaster is responsive and works seamlessly across various
 Technologies Used :
 
 -> React.js : The core framework used for building the user interface.
+
 -> JavaScript (ES6+) : For writing the application logic and handling task data.
+
 -> TailWind CSS (or styled-components) : For styling the user interface and   enhancing the visual appeal.
+
 -> Git : Version control system for managing the project codebase.
+
 -> GitHub : Hosting the project repository and collaboration among contributors.
 
 ---
