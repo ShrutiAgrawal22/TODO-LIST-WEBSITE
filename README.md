@@ -9,7 +9,7 @@ This project demonstrates the implementation of task rendering using React.js. T
 
 Features :
 
-![Homepage Image](Homepage.jpg "Homepage")
+![Alt text](/Homepage.jpg.png)
 
 Task Creation : Users can create new tasks with relevant details.
 
