@@ -11,10 +11,11 @@ Features :
 
 ![Alt text](/Homepage.jpg.png)
 
-
-[Watch the video](todo-video.mp4)
+![Animation](/todo-video.gif)
 
 Task Creation : Users can create new tasks with relevant details.
+
+
 
 Task Display: Tasks are rendered dynamically in the UI, facilitating easy viewing and management.
 
