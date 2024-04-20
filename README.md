@@ -30,8 +30,12 @@ To run this project locally, follow these steps:
 --> Open your web browser and visit http://localhost:5173 to view the application.
 
 
+---
+
 License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
