@@ -14,14 +14,21 @@ CSS (or styled-components): For styling the user interface and enhancing the vis
 Git: Version control system for managing the project codebase.
 GitHub: Hosting the project repository and collaboration among contributors.
 
-Usage:
+
+Usage :
+
 To run this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/task-rendering-react.git 
-Navigate to the project directory: cd task-rendering-react
-Install dependencies: npm install or yarn install
-Start the development server: npm run dev
-Open your web browser and visit http://localhost:5173 to view the application.
+--> Clone the repository: git clone https://github.com/yourusername/task-rendering-react.git 
+
+--> Navigate to the project directory: cd TODO-LIST-WEBSITE
+
+--> Install dependencies: npm install
+
+--> Start the development server: npm run dev
+
+--> Open your web browser and visit http://localhost:5173 to view the application.
+
 
 License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
