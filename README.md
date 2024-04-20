@@ -1,11 +1,15 @@
 # React + Vite
 
+---
+
 Overview:
 This project demonstrates the implementation of task rendering using React.js. Task rendering is a fundamental aspect of many web applications, especially those involving to-do lists, project management tools, and more. This repository serves as a starting point for understanding how to efficiently render tasks dynamically in a React.js application.
  
 ---
 
 Features :
+
+![Homepage Image](Homepage.jpg "Homepage")
 
 Task Creation : Users can create new tasks with relevant details.
 
